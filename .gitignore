@@ -2,4 +2,6 @@ model/
 data/
 dataset/
 .ipynb_*
+unsloth*
+.env
 
