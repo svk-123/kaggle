@@ -2,6 +2,7 @@ model/
 data/
 dataset/
 .ipynb_*
-unsloth*
+**/*unsloth*/
+**/*tmp*/
 .env
 
